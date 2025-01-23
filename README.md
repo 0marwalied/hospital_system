@@ -11,4 +11,4 @@ This is a simple **Hospital Management System** implemented in C++. It allows ma
 ## How to Use
 1. **Compile the code**: Use a C++ compiler (e.g., `g++`) to compile the program:
    ```bash
-   g++ -o hospital hospital.cpp
+   g++ -o hospital.cpp
